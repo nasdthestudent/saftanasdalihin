@@ -7,7 +7,7 @@
 🎯 Goals: Build clean apps, join open source, and contribute to society  
 
 ## 🛠️ Tech Stack
-- Frontend: React, JavaScript, HTML, CSS  
+- Frontend: Solidity, React, JavaScript, HTML, CSS  
 - Tools: Git, VS Code,  
 - Interests: Web3, Blockchain, Productivity  
 
