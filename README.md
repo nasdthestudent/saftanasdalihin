@@ -12,7 +12,7 @@
 - Interests: Web3, Blockchain, Productivity  
 
 ## 📈 GitHub Stats
-![Safta's GitHub stats](https://github-readme-stats.vercel.app/api?username=saftanasdalihin&show_icons=true&theme=radical)
+![Safta's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasdthestudent&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - [Instagram](https://instagram.com/safta_nas) 
