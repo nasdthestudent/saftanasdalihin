@@ -18,10 +18,10 @@
 - 🧩 Learning how to merge tech with agriculture (AgriTech)
 - 🧘 Deep thinking, anime philosophy, and building a better world
 
-#### 📈 GitHub Stats
+### 📈 GitHub Stats
 ![Safta's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasdthestudent&show_icons=true&theme=radical)
 
-##### 🌐 Connect with Me
+## 🌐 Connect with Me
 - [Instagram](https://instagram.com/safta_nas) 
 - [LinkedIn](https://linkedin.com/in/saftanasdalihin)  
 - [Personal Site](https://saftanasdalihin.netlify.app)
